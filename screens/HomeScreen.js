@@ -11,7 +11,7 @@ function HomeScreen({ navigation }) {
         style={{ width: 120, height: 120, alignSelf: 'center', marginBottom: 32 }}
       />
       <Text style={signupStyles.logo}>Stride.</Text>
-      <Text style={signupStyles.tagline}>Moving Physical Therapy...Forward</Text>
+      <Text style={signupStyles.tagline}>Moving Physical Therapy...To the Moon</Text>
 
       <Text style={signupStyles.header}>Welcome</Text>
       <Text style={signupStyles.subheader}>Let’s get you moving.</Text>
